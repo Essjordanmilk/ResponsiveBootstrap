@@ -1,0 +1,9 @@
+#txtcomment{
+    resize: none;
+}
+.card:hover{
+    opacity: 0.7;
+}
+.hyper{ 
+    text-decoration: none;
+}
